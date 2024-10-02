@@ -16,7 +16,8 @@ alejandroria94@dev:~$ host --info
    |_ Fundamentos de Programación
 
 alejandroria94@dev:~$|
-  ``` 
+  ```
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <h2>Hola 👋, Bienvenido/a a mi repositorio </h2>                                                      
 
 <h2>🚀 Lenguajes y Herramientas</h2>
@@ -40,6 +41,14 @@ alejandroria94@dev:~$|
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 <h2>⚡️ Donde Encontrarme</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/dario-alejandro-riaño-velandia" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+### 🤯 Estoy arendiendo
+
+- Arquitectura
+-  Gestión de TI
+-  Patrones de diseño
+
+
 
 
 <!--
