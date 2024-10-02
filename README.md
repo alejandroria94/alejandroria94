@@ -1,11 +1,23 @@
 ```console
 alejandroria94@dev:~$ host --info
+                        |================================================|
+                        | ####     #     ####   ###    ###         #     |
+                        | #   #   # #    #   #   #    #   #       # #    |
+                        | #   #  #####   ####    #    #   #      #####   |
+                        | #   #  #   #   #  #    #    #   #      #   #   |
+                        | ####   #   #   #   #  ###    ###    #  #   #   |
+                        |================================================|
+|__Desarrollador fullstack
+   |_ Angular
+   |_ SpringBoot
+|__Docente Universitario
+   |_ Programacion Orientada a Objetos
+   |_ Programacion en la Web
+   |_ Fundamentos de Programación
 
+alejandroria94@dev:~$|
   ``` 
-<h1>Hola 👋, </h1>
-
-<p>Desarrollador fullstack y docente universitario</p>
-                                                       
+<h2>Hola 👋, Bienvenido/a a mi repositorio </h2>                                                      
 
 <h2>🚀 Lenguajes y Herramientas</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
