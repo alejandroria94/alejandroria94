@@ -11,8 +11,8 @@ alejandroria94@dev:~$ host --info
    |_ Angular
    |_ SpringBoot
 |__Docente Universitario
-   |_ Programacion Orientada a Objetos
-   |_ Programacion en la Web
+   |_ Programación Orientada a Objetos
+   |_ Programación en la Web
    |_ Fundamentos de Programación
 
 alejandroria94@dev:~$|
@@ -42,7 +42,7 @@ alejandroria94@dev:~$|
 <h2>⚡️ Donde Encontrarme</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/dario-alejandro-riaño-velandia" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-### 🤯 Estoy arendiendo
+### 🤯 Estoy aprendiendo
 
 - Arquitectura
 -  Gestión de TI
