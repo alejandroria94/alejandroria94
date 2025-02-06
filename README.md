@@ -18,7 +18,7 @@ alejandroria94@dev:~$ host --info
 
 alejandroria94@dev:~$|
   ```
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+
 <h2>Hola 👋, Bienvenido/a a mi repositorio </h2>                                                      
 
 <h2>🚀 Lenguajes y Herramientas</h2>
