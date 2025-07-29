@@ -1,5 +1,3 @@
- ```console
-
 ```console
 alejandroria94@dev:~$ host --info
   ____             _            _    _       _                 _              ____  
